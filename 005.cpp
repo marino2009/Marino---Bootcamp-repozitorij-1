@@ -8,6 +8,7 @@ int main()
 {
 
 // bla bla bla
+// jos jedan komen
 
 cout<<"x vrijednost\ty vrijednost\tizraz\trezultat"<<endl;
 cout<<"10\t\t5\t\tx=y+3\tx=8"<<endl;

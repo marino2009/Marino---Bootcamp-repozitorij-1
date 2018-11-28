@@ -7,6 +7,6 @@ int main()
 	cout << "Hello World!" << endl;
 	// proba prvog koda 
 	system("PAUSE");
-	return 0;
+	cout << "Tko sam ja" << endl;
 	//blablabla
 }

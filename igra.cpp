@@ -15,7 +15,7 @@ int main()
 	e = (((a % 1000) % 100) % 10);
 	cout << b << endl << c << endl << d << endl << e << endl;
 
-	if (9>b, b>c, b>d, b>e) {
+	if (9>b, b>=c, b>=d, b>=e) {
 		cout << (b+1) << endl;
 	}
 	else if (9 > c, c >= b, c >= d, c>=e) {
@@ -28,6 +28,6 @@ int main()
 		cout << (e+1) << endl;
 	}
 	else {
-		cout << "9" << endl;
+		cout << f << endl;
 	}
 }
